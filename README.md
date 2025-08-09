@@ -54,8 +54,8 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Support Me</h3>
-<p align="left">
+<h3 align="center">Support Me</h3>
+<p align="center">
   <a href="https://www.buymeacoffee.com/ishan_vi" target="_blank" rel="noreferrer">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
   </a>
