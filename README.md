@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="150" />
 </p>
 
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Exploring the Boundless World of Technology</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishan-vi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
