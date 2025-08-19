@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ishan Prabashwara</h1>
+<h1 align="center">Hey, I'm Ishan Prabashwara</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/1109?v=4" width="150" />
