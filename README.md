@@ -63,10 +63,17 @@
 
 <br/>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishan-vi&show_icons=true&locale=en&theme=dark" alt="ishan-vi" />
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishan-vi&show_icons=true&locale=en&theme=dark" alt="ishan-vi" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-vi&theme=dark" alt="ishan-vi" />
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-vi&theme=dark" alt="ishan-vi" />
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-vi&layout=compact&theme=dark" alt="ishan-vi" />
 </p>
