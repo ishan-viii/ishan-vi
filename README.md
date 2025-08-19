@@ -68,5 +68,5 @@
 
 <!-- Most Used Languages -->
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-vi&layout=compact&theme=dark" alt="ishan-vi" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-vi&layout=compact&theme=dark" alt="ishan-vi" height="165" />
 </p>
