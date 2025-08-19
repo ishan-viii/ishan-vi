@@ -71,6 +71,6 @@
 </p>
 
 <!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-vi&layout=compact&theme=dark" alt="ishan-vi" width="100%" />
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-vi&layout=compact&theme=dark" alt="ishan-vi" width="50%" />
 </p>
