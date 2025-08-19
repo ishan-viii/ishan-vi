@@ -63,10 +63,6 @@
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishan-vi&show_icons=true&locale=en&theme=dark" alt="ishan-vi" width="50%" />
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-vi&theme=dark" alt="ishan-vi" width="50%" />
 </p>
 
