@@ -62,8 +62,8 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishan-vi&show_icons=true&locale=en&theme=dark" alt="ishan-vi" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-vi&theme=dark" alt="ishan-vi" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishan-vi&show_icons=true&locale=en&theme=dark" alt="ishan-vi" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-vi&theme=dark" alt="ishan-vi" height="165"/>
 </p>
 
 <!-- Most Used Languages -->
