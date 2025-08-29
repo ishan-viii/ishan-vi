@@ -4,6 +4,11 @@
 
 <h3 align="center">Exploring the Boundless World of Technology</h3>
 
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/iddhi-sulakshana/iddhi-sulakshana/output/github-contribution-grid-snake-dark.svg"
+       alt="snake" />
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishan-vi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
@@ -30,25 +35,20 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,java,py,c,cs,express,flutter,dart,php,bootstrap,html,css,matlab,jest,git,docker,bash,github,githubactions,linux,mysql,postman,sqlite,visualstudio,vite,vitest,vscode&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img height=25 src="https://img.shields.io/badge/Code%20Wizard-🧙‍♂️-purple?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img height=25 src="https://img.shields.io/badge/Bug%20Hunter-🐞-red?style=for-the-badge&logo=bugsnag&logoColor=white" />
+  <img height=25 src="https://img.shields.io/badge/Coffee%20Drinker-🧋-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+  <img height=25 src="https://img.shields.io/badge/Open%20Sourcery-🧑🏽‍💻-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img height=25 src="https://img.shields.io/badge/Space%20Explorer-🚀-black?style=for-the-badge" />
+  <img height=25 src="https://img.shields.io/badge/Music%20Maestro-🎵-yellow?style=for-the-badge" />
+  <img height=25 src="https://img.shields.io/badge/AI%20Explorer-🤖-purple?style=for-the-badge&logo=python&logoColor=white" />
+  <img height=25 src="https://img.shields.io/badge/Chaos%20Coder-💥-deepblue?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
 <h3 align="center">Support Me</h3>
@@ -61,10 +61,24 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishan-vi&show_icons=true&locale=en&theme=dark" alt="ishan-vi" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-vi&theme=dark" alt="ishan-vi" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishan-vi&show_icons=true&locale=en&theme=dark" alt="ishan-vi" 
+    width="100%"
+    height="250"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-vi&theme=dark" alt="ishan-vi" 
+    width="100%"
+    height="250"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-vi&layout=compact&theme=dark" alt="ishan-vi" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-vi&layout=compact&theme=dark" alt="ishan-vi" 
+    width="100%"
+    height="250" />
 </p>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/ishan-vi"
+    width="100%"
+    height="250"
+  />
+</a>
