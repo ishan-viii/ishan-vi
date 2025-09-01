@@ -20,9 +20,6 @@
       
 - All of my projects are available at [https://journey.rf.gd/](https://journey.rf.gd/)
 
-- Ask me about **UI/UX design, Figma, React, Tailwind CSS, GSAP animations**
-
-- Fun fact **I think I am also happy 😄**
     </td>
     <td align="center" width="50%">
       <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="GitHub Repository Image" height="150">
