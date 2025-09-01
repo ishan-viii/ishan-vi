@@ -18,8 +18,6 @@
   <tr>
     <td valign="top" width="50%">
       
-- I’m currently learning **Flutter, Spring Boot**
-
 - All of my projects are available at [https://journey.rf.gd/](https://journey.rf.gd/)
 
 - Ask me about **UI/UX design, Figma, React, Tailwind CSS, GSAP animations**
