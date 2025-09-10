@@ -52,23 +52,23 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishan-vi&show_icons=true&locale=en&theme=dark" alt="ishan-vi" 
+  <img src="https://github-readme-stats.vercel.app/api?username=ishan-viii&show_icons=true&locale=en&theme=dark" alt="ishan-viii" 
     width="100%"
     height="250"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-vi&theme=dark" alt="ishan-vi" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-viii&theme=dark" alt="ishan-viii" 
     width="100%"
     height="250"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-vi&layout=compact&theme=dark" alt="ishan-vi" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-viii&layout=compact&theme=dark" alt="ishan-viii" 
     width="100%"
     height="250" />
 </p>
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/farms/ishan-vi"
+    src="https://render.gitanimals.org/farms/ishan-viii"
     width="100%"
     height="250"
   />
